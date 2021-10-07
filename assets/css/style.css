@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;600;800&display=swap');
+*{
+    font-family: 'Poppins', sans-serif;
+}
+a .card{
+    border-radius: 20px;
+    text-align: center;
+    display: block;
+
+}
+a .txt-card{
+    text-align: center;
+    margin-top: 30px;
+}
+
+
+a:link { text-decoration: none; }
+
+a:visited { text-decoration: none; }
+
+a:hover { text-decoration: none; }
+
+a:active { text-decoration: none; }
+#search{
+    width: 80%;
+}
